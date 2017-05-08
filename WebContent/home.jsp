@@ -10,6 +10,6 @@
 <h1><b>APPLICATION RELEASE AUTOMATION</b></h1>
     <h3>An Approach towards feature team</h3><br>
 <a href="details.jsp">details</a><br><br><br><br><br><br><br>
-    <h5>by Arka/Khader</h5>
+    <h5>by Khader</h5>
 </body>
 </html>
