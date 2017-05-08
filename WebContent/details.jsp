@@ -14,7 +14,7 @@ Operating System: Ubuntu 16.04.1<br>
 Programming Language: Java/J2EE<br>
 Build Tool: Maven<br>
 Version Control: Git<br>
-Repository: Github<br>
+Repository: GitHub<br>
 Integration Tool: Jenkins<br><br><br>
 
 <a href="home.jsp">home</a>
