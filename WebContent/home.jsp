@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1><b>APPLICATION RELEASE AUTOMATION</b></h1>
-    <h3>An Approach towards feature team</h3><br>
+    <h3>An Approach towards ara team</h3><br>
 <a href="details.jsp">details</a><br><br><br><br><br><br><br>
 </body>
 </html>
