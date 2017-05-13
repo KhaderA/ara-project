@@ -7,7 +7,7 @@
 <title>ARA HOME PAGE</title>
 </head>
 <body>
-<h><b>APPLICATION RELEASE AUTOMATION - POC</b></h1>
+<h><b>APPLICATION RELEASE AUTOMATION</b></h1>
     <h3>An Approach towards ara team</h3><br>
 <a href="details.jsp">details</a><br><br><br><br><br><br><br>
 </body>
